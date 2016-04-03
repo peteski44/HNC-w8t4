@@ -16,3 +16,4 @@ C:\Users\Peter\Desktop\HNC-w8t4-master\HNC-w8t4-master\w8t4oop1\w8t4oop1\obj\x86
 C:\Users\Peter\Desktop\HNC-w8t4-master\HNC-w8t4-master\w8t4oop1\w8t4oop1\obj\x86\Debug\w8t4oop1.pdb
 C:\Users\Peter\Desktop\HNC-w8t4-master\HNC-w8t4-master\w8t4oop1\w8t4oop1\bin\Debug\w8t4oop1.exe
 C:\Users\Peter\Desktop\HNC-w8t4-master\HNC-w8t4-master\w8t4oop1\w8t4oop1\bin\Debug\w8t4oop1.pdb
+C:\Users\Peter\Desktop\HNC-w8t4-master\HNC-w8t4-master\w8t4oop1\w8t4oop1\obj\x86\Debug\w8t4oop1.csprojResolveAssemblyReference.cache
