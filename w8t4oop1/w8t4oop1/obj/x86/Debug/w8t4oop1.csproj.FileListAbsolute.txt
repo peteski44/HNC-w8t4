@@ -1,0 +1,10 @@
+D:\Peter\Documents\My Documents\HNC Computing\Software Development\w8t4oop1\w8t4oop1\bin\Debug\w8t4oop1.exe
+D:\Peter\Documents\My Documents\HNC Computing\Software Development\w8t4oop1\w8t4oop1\bin\Debug\w8t4oop1.pdb
+D:\Peter\Documents\My Documents\HNC Computing\Software Development\w8t4oop1\w8t4oop1\obj\x86\Debug\w8t4oop1.exe
+D:\Peter\Documents\My Documents\HNC Computing\Software Development\w8t4oop1\w8t4oop1\obj\x86\Debug\w8t4oop1.pdb
+G:\w8t4oop1\w8t4oop1\obj\x86\Debug\w8t4oop1.exe
+G:\w8t4oop1\w8t4oop1\obj\x86\Debug\w8t4oop1.pdb
+G:\w8t4oop1\w8t4oop1\bin\Debug\w8t4oop1.exe
+G:\w8t4oop1\w8t4oop1\bin\Debug\w8t4oop1.pdb
+E:\w8t4oop1\w8t4oop1\obj\x86\Debug\w8t4oop1.exe
+E:\w8t4oop1\w8t4oop1\obj\x86\Debug\w8t4oop1.pdb
