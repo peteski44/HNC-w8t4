@@ -31,6 +31,8 @@ namespace w8t4oop1
             Console.WriteLine("the area of the inner circle is: {0}", ring1.InnerCircleArea);
             Console.WriteLine("the area of the outer circle is {0}", ring1.OuterCircleArea);
             Console.WriteLine("the area of the ring is {0}", ring1.RingArea);
+
+            //Additional comments to test Github process
             
         }
     }
